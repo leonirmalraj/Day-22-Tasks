@@ -85,8 +85,8 @@ function App() {
                     </div>
                 </div>
             </div>
-        </section>
-        {/* Image Showcases*/}
+        </section>  
+        {/* Image Showcases*/} 
         <section className="showcase">
             <div className="container-fluid p-0">
                 <div className="row g-0">
